@@ -126,3 +126,6 @@ Next, you need to run in the terminal command:
 ```
 pytest
 ```
+=======
+# -_SQL_
+>>>>>>> 8033d810c397e0c24dfed1bf9d543c9c5b7b8893
