@@ -1,9 +1,9 @@
 [project]
-name = "coursework-sql"
+name = "coursework-sql-andrianov-m-s"
 version = "0.1.0"
 description = ""
 authors = [
-  {name = "Ирина",email = "irina@example.com"}
+    {name = "Maksim Andreev",email = "andrianov_maksim@outlook.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.13"
